@@ -40,6 +40,5 @@ Courses:
 |----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|
 
-
-
+![snake gif](https://github.com/Babyface2003/Babyface2003/blob/output/github-contribution-grid-snake.gif)
 
